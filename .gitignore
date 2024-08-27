@@ -1,0 +1,8 @@
+# Images section
+*.jpg
+*.jpge
+*.png
+*.ico
+
+# Cotton section
+.cotton_*
